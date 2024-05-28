@@ -1,0 +1,5 @@
+streamlit==1.18.0
+google-cloud-aiplatform==1.25.0
+google-auth==2.18.0
+
+
